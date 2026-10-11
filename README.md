@@ -24,7 +24,7 @@ This project implements a cloud-based Twitter analytics pipeline to calculate th
 
 - `index.html` — Frontend implementation
 - `lambda_function.py` — Backend implementation
-- `glue_spark_analysis.py` — PySpark data analysis
+- `aws_glue_pyspark.py` — PySpark data analysis
 
 ## Execution
 
